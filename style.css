@@ -1,0 +1,23 @@
+.section-padding {
+  padding: 120px 0;
+}
+
+.bg-light {
+  background-color: #ddd;
+}
+
+.bg-pattern {
+  background-color: #ddd;
+}
+
+.section-title {
+  margin-bottom: 45px;
+}
+
+.font-primary {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.font-secondary {
+  font-family: "Courier New", Courier, monospace;
+}
